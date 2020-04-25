@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from "react-native";
 const BrowseScreen = (props) => {
   return (
     <View style={styles.screen}>
-      <Text>This is the Browse Screen</Text>
+      <Text style={styles.title}>This is the Browse Screen</Text>
     </View>
   );
 };
@@ -14,6 +14,10 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
+  },
+  title: {
+    fontFamily: "montserrat-black",
+    fontSize: 18,
   },
 });
 
