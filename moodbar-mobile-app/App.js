@@ -1,8 +1,15 @@
 import React, { useState } from "react";
-import { NavigationContainer } from "@react-navigation/native";
-import AppBottomNavigator from "./navigation/AppBottomNavigator";
+import { enableScreens } from "react-native-screens";
+// import { NavigationContainer } from "@react-navigation/native";
+// import AppBottomNavigator from "./navigation/AppBottomNavigator";
+
 import { AppLoading } from "expo";
 import * as Font from "expo-font";
+
+// import SessionStackNavigator from "./navigation/GenerateSessionStackNavigator";
+import BottomTabNavigator from "./navigation/GenerateSessionStackNavigator";
+
+enableScreens();
 
 const fetchFonts = () => {
   return Font.loadAsync({
@@ -27,9 +34,5 @@ export default function App() {
     );
   }
 
-  return (
-    <NavigationContainer>
-      <AppBottomNavigator />
-    </NavigationContainer>
-  );
+  return <BottomTabNavigator />;
 }
