@@ -1,10 +1,10 @@
 import React from "react";
-import { View, Text, Button, StyleSheet } from "react-native";
+import { View, Text, StyleSheet } from "react-native";
 
-const SessionScreen = (props) => {
+const LandingScreen = (props) => {
   return (
     <View style={styles.screen}>
-      <Text style={styles.title}>This is the Sessions Screen</Text>
+      <Text style={styles.title}>This is the Landing Screen</Text>
     </View>
   );
 };
@@ -14,12 +14,13 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: Colors.primary,
+    backgroundColor: "#161A36",
   },
   title: {
     fontFamily: "montserrat-black",
     fontSize: 18,
+    color: "#ffffff",
   },
 });
 
-export default SessionScreen;
+export default LandingScreen;

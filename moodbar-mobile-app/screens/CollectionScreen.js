@@ -1,6 +1,8 @@
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
+import Colors from "../constants/Colors";
+
 const CollectionScreen = (props) => {
   return (
     <View style={styles.screen}>
@@ -14,6 +16,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
+    backgroundColor: Colors.primary,
   },
   title: {
     fontFamily: "montserrat-black",
