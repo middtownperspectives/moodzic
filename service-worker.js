@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/precache-manifest.2aef482d7f47a26f7a6f7b96bf2ac4a4.js"
+  "/middtownperspectives/moodzic/precache-manifest.c68b6d267c55ef13ea985769b4f3b371.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/middtownperspectives/moodzic/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/static/css/main.5f361e03.chunk.css",
-    "main.js": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/static/js/main.80c3ce5d.chunk.js",
-    "main.js.map": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/static/js/main.80c3ce5d.chunk.js.map",
-    "runtime-main.js": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/static/js/runtime-main.6f5254ef.js",
-    "runtime-main.js.map": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/static/js/runtime-main.6f5254ef.js.map",
-    "static/js/2.9529282e.chunk.js": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/static/js/2.9529282e.chunk.js",
-    "static/js/2.9529282e.chunk.js.map": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/static/js/2.9529282e.chunk.js.map",
-    "index.html": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/index.html",
-    "precache-manifest.2aef482d7f47a26f7a6f7b96bf2ac4a4.js": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/precache-manifest.2aef482d7f47a26f7a6f7b96bf2ac4a4.js",
-    "service-worker.js": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9529282e.chunk.js.LICENSE.txt": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/static/js/2.9529282e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/middtownperspectives/moodzic/tree/thesis-webpage/moodbar-webpage/static/media/logo.5d5d9eef.svg"
+    "main.css": "/middtownperspectives/moodzic/static/css/main.5f361e03.chunk.css",
+    "main.js": "/middtownperspectives/moodzic/static/js/main.2f260dc3.chunk.js",
+    "main.js.map": "/middtownperspectives/moodzic/static/js/main.2f260dc3.chunk.js.map",
+    "runtime-main.js": "/middtownperspectives/moodzic/static/js/runtime-main.2fffe1bb.js",
+    "runtime-main.js.map": "/middtownperspectives/moodzic/static/js/runtime-main.2fffe1bb.js.map",
+    "static/js/2.9529282e.chunk.js": "/middtownperspectives/moodzic/static/js/2.9529282e.chunk.js",
+    "static/js/2.9529282e.chunk.js.map": "/middtownperspectives/moodzic/static/js/2.9529282e.chunk.js.map",
+    "index.html": "/middtownperspectives/moodzic/index.html",
+    "precache-manifest.c68b6d267c55ef13ea985769b4f3b371.js": "/middtownperspectives/moodzic/precache-manifest.c68b6d267c55ef13ea985769b4f3b371.js",
+    "service-worker.js": "/middtownperspectives/moodzic/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/middtownperspectives/moodzic/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9529282e.chunk.js.LICENSE.txt": "/middtownperspectives/moodzic/static/js/2.9529282e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/middtownperspectives/moodzic/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f5254ef.js",
+    "static/js/runtime-main.2fffe1bb.js",
     "static/js/2.9529282e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.80c3ce5d.chunk.js"
+    "static/js/main.2f260dc3.chunk.js"
   ]
 }
