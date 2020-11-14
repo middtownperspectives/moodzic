@@ -2,6 +2,7 @@ import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
 const LandingScreen = (props) => {
+  
   return (
     <View style={styles.screen}>
       <Text style={styles.title}>This is the Landing Screen</Text>

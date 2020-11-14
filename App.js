@@ -8,6 +8,7 @@ import * as Font from "expo-font";
 
 // import SessionStackNavigator from "./navigation/GenerateSessionStackNavigator";
 import BottomTabNavigator from "./navigation/GenerateSessionStackNavigator";
+import LoginScreen from "./screens/LoginScreen";
 
 enableScreens();
 
@@ -33,6 +34,6 @@ export default function App() {
       ></AppLoading>
     );
   }
-
-  return <BottomTabNavigator />;
+  // return <BottomTabNavigator />;
+  return <LoginScreen />;
 }
